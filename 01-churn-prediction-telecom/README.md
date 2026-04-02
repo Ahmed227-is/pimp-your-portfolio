@@ -348,8 +348,8 @@ git push origin main
 ## 👤 Auteur
 
 **Votre Nom**
-- GitHub : [@votre-username](https://github.com/votre-username)
-- LinkedIn : [Votre Profil](https://linkedin.com/in/votre-profil)
+- GitHub : [@votre-username](https://github.com/Ahmed227-is)
+- LinkedIn : [Votre Profil](www.linkedin.com/in/ahmed-abdoulkarimou-abaradine-1610b5250)
 - Portfolio : [votre-site.com](https://votre-site.com)
 
 ---
